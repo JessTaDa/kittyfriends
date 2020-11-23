@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kittyfriends/static/css/main.a4860553.chunk.css",
+    "main.js": "/kittyfriends/static/js/main.dc6a58b4.chunk.js",
+    "main.js.map": "/kittyfriends/static/js/main.dc6a58b4.chunk.js.map",
+    "runtime-main.js": "/kittyfriends/static/js/runtime-main.487f1952.js",
+    "runtime-main.js.map": "/kittyfriends/static/js/runtime-main.487f1952.js.map",
+    "static/css/2.31461e4f.chunk.css": "/kittyfriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.050ab8b9.chunk.js": "/kittyfriends/static/js/2.050ab8b9.chunk.js",
+    "static/js/2.050ab8b9.chunk.js.map": "/kittyfriends/static/js/2.050ab8b9.chunk.js.map",
+    "static/js/3.aabf4a9c.chunk.js": "/kittyfriends/static/js/3.aabf4a9c.chunk.js",
+    "static/js/3.aabf4a9c.chunk.js.map": "/kittyfriends/static/js/3.aabf4a9c.chunk.js.map",
+    "index.html": "/kittyfriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/kittyfriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.a4860553.chunk.css.map": "/kittyfriends/static/css/main.a4860553.chunk.css.map",
+    "static/js/2.050ab8b9.chunk.js.LICENSE.txt": "/kittyfriends/static/js/2.050ab8b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.487f1952.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.050ab8b9.chunk.js",
+    "static/css/main.a4860553.chunk.css",
+    "static/js/main.dc6a58b4.chunk.js"
+  ]
+}
