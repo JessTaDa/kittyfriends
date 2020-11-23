@@ -1,10 +1,11 @@
-import React from 'react';
+import { React, Component } from 'react';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox.js';
 import { readdirSync } from 'fs';
 import Scroll from '../components/Scroll'
+import ErrorBoundry from '../components/ErrorBoundry'
 
-class App extends React.Component { 
+class App extends Component { 
     constructor(){
         super()
         this.state = {
@@ -33,7 +34,9 @@ class App extends React.Component {
                 <h1>Robofriends </h1>
                 <SearchBox searchChange={this.onSearchChange}/>
                 <Scroll>
-                    <CardList robots={filteredRobots} />
+                    <ErrorBoundry>
+                        <CardList robots={filteredRobots} />
+                    </ErrorBoundry>
                 </Scroll>
             </div>
         )
